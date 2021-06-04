@@ -1,0 +1,168 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.Title {
+    display: flex;
+    justify-content: center;
+    border-style: outset;
+    border: 5px outset #3077C8;
+    border-width: 5px;
+    margin: 50px;
+    padding: 10px;
+}
+
+.image1 {
+    border-style: outset;
+    border: 5px outset #3077C8;
+    padding: 5px;
+    margin: 15px;
+}
+
+.AboutMe {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-content: space-between;
+    display: flex;
+}
+
+.Status {
+    text-align: left;
+    border-style: outset;
+    border: #3077C8 5px outset;
+    padding: 25px;
+    margin: 10px;
+}
+
+.links {
+    border-style: outset;
+    border: #0652A9 2px outset;
+    background-color: #3077C8;
+    color: white;
+    padding: 15px 32px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    width: 400px;
+    height: 300px;
+}
+
+.posts {
+    display: flex;
+    Justify-content: center;
+}
+
+.quotes {
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.youngscott {
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Boss {
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Posts {
+    display: flex;
+    justify-content: center;
+}
+
+.michael {
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.basketball {
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Jim {
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.office {
+    width: 500px;
+    height: 300px;
+}
+
+.theoffice {
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.God {
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Toby {
+    border-style: solid;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Friends {
+    Display: flex;
+    Justify-content: center;
+}
+
+.Profile {
+    width: 273px;
+    height: 364px;
+}
+
+.Halpert {
+    text-align: center;
+    border-style: outset;
+    border: #3077C8 7px outset;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Pam {
+    text-align: center;
+    border-style: outset;
+    border: #3077C8 7px outset;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Dwight {
+    text-align: center;
+    border-style: outset;
+    border: #3077C8 7px outset;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Ryan {
+    text-align: center;
+    border-style: outset;
+    border: #3077C8 7px outset;
+    padding: 10px;
+    margin: 10px;
+}
